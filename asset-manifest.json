@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/lavishal/react-port/static/css/main.670f5d7b.css",
-    "main.js": "/lavishal/react-port/static/js/main.958f2cf4.js",
-    "static/media/batman.png": "/lavishal/react-port/static/media/batman.6640da77624230565a41.png",
-    "static/media/fitquest.png": "/lavishal/react-port/static/media/fitquest.6542434260a1be614986.png",
-    "static/media/alex2.jpg": "/lavishal/react-port/static/media/alex2.32120c908343144bd439.jpg",
-    "static/media/sync.png": "/lavishal/react-port/static/media/sync.fc36326ca272bddc6748.png",
-    "static/media/alex.jpg": "/lavishal/react-port/static/media/alex.273cbe623257b39178d0.jpg",
-    "static/media/culinary.png": "/lavishal/react-port/static/media/culinary.d894424bc17fc3df2e13.png",
-    "static/media/Alex-Resume.pdf": "/lavishal/react-port/static/media/Alex-Resume.03344a721a15dab96d73.pdf",
-    "index.html": "/lavishal/react-port/index.html",
-    "main.670f5d7b.css.map": "/lavishal/react-port/static/css/main.670f5d7b.css.map",
-    "main.958f2cf4.js.map": "/lavishal/react-port/static/js/main.958f2cf4.js.map"
+    "main.css": "/lavishAl/react-port/static/css/main.670f5d7b.css",
+    "main.js": "/lavishAl/react-port/static/js/main.80dcdf30.js",
+    "static/media/batman.png": "/lavishAl/react-port/static/media/batman.6640da77624230565a41.png",
+    "static/media/fitquest.png": "/lavishAl/react-port/static/media/fitquest.6542434260a1be614986.png",
+    "static/media/alex2.jpg": "/lavishAl/react-port/static/media/alex2.32120c908343144bd439.jpg",
+    "static/media/sync.png": "/lavishAl/react-port/static/media/sync.fc36326ca272bddc6748.png",
+    "static/media/alex.jpg": "/lavishAl/react-port/static/media/alex.273cbe623257b39178d0.jpg",
+    "static/media/culinary.png": "/lavishAl/react-port/static/media/culinary.d894424bc17fc3df2e13.png",
+    "static/media/Alex-Resume.pdf": "/lavishAl/react-port/static/media/Alex-Resume.03344a721a15dab96d73.pdf",
+    "index.html": "/lavishAl/react-port/index.html",
+    "main.670f5d7b.css.map": "/lavishAl/react-port/static/css/main.670f5d7b.css.map",
+    "main.80dcdf30.js.map": "/lavishAl/react-port/static/js/main.80dcdf30.js.map"
   },
   "entrypoints": [
     "static/css/main.670f5d7b.css",
-    "static/js/main.958f2cf4.js"
+    "static/js/main.80dcdf30.js"
   ]
 }
